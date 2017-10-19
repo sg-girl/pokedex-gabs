@@ -1,0 +1,58 @@
+#toolbar {
+
+  background-image: linear-gradient(0deg, #ff0000, #EE3B5E);
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+
+}
+#toolbar img {
+  height: 30px;
+}
+.small-box {
+  width: 300px !important;
+}
+#container {
+  background-color: #eaeaea;
+  padding: 30px;
+  margin-top: 70px;
+
+
+}
+.pokemon {
+  width: 300px;
+  border: 1px solid red;
+  margin: 15px;
+  box-shadow: 0px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
+.photo {
+  height: 300px;
+  overflow: hidden;
+  background-color: white;
+}
+.photo img {
+  height: 100%;
+
+}
+.info {
+  background-color: white;
+  padding: 10px;
+}
+.details{
+
+}
+h2 {
+  color: red;
+  font-size: 30px;
+
+}
+span {
+  font-size: 24px;
+  color: blue;
+}
